@@ -1,6 +1,6 @@
-# Review Concepts with a Small Project
+# مراجعة المفاهيم بمشروع صغير
 
-# Define a Class
+# تعريف الفئة
 class Student:
     def __init__(self, name, grade):
         self.name = name
@@ -10,16 +10,16 @@ class Student:
         return self.grade >= 60
 
 
-# Create a List of Students
+# إنشاء قائمة بالطلاب
 students = [
     Student("Alice", 85),
     Student("Bob", 58),
     Student("Charlie", 70)
 ]
 
-# Check Which Students Are Passing
+# التحقق من الطلاب الناجحين
 for student in students:
     if student.is_passing():
-        print(student.name + " is passing.")
+        print(student.name + " ناجح.")
     else:
-        print(student.name + " is not passing.")
+        print(student.name + " غير ناجح.")

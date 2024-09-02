@@ -1,13 +1,13 @@
-# Python Basics: Print, Variables, and Data Types
+# الأساسيات: الطباعة، المتغيرات، وأنواع البيانات
 
-# Print a message
+# طباعة رسالة
 print("Hello, Python!")
 
-# Variables and Data Types
-name = "Alice"  # String
-age = 15        # Integer
-height = 5.7    # Float
-is_student = True  # Boolean
+# المتغيرات وأنواع البيانات
+name = "Alice"  # نص
+age = 15        # عدد صحيح
+height = 5.7    # عدد عشري
+is_student = True  # قيمة منطقية
 
-# Print variables
+# طباعة المتغيرات
 print(name, age, height, is_student)

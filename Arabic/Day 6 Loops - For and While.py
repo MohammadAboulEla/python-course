@@ -1,9 +1,9 @@
-# For Loop
+# حلقة التكرار For
 for i in range(5):
-    print("Iteration:", i)
+    print("التكرار:", i)
 
-# While Loop
+# حلقة التكرار While
 counter = 0
 while counter < 3:
-    print("Counter:", counter)
+    print("العداد:", counter)
     counter += 1

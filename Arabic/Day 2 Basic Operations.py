@@ -1,14 +1,14 @@
-# Arithmetic Operations
+# العمليات الحسابية
 x = 10
 y = 3
 
-# Addition, Subtraction, Multiplication, Division, Modulus
+# جمع، طرح، ضرب، قسمة، وباقي القسمة
 print(x + y)
 print(x - y)
 print(x * y)
 print(x / y)
 print(x % y)
 
-# Exponentiation and Floor Division
+# الأس والتقسيم الأرضي
 print(x ** y)
 print(x // y)
