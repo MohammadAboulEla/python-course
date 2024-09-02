@@ -1,11 +1,11 @@
-# Importing Modules
+# استيراد الوحدات
 import math
 
-# Using Math Module Functions
+# استخدام دوال وحدة الرياضيات
 print(math.sqrt(16))
 print(math.pi)
 
-# Importing Specific Functions
+# استيراد دوال محددة
 from random import randint
 
 print(randint(1, 10))

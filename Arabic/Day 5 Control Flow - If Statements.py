@@ -1,12 +1,12 @@
-# If Statements
+# عبارات الشرط
 age = 18
 
 if age >= 18:
-    print("You are an adult.")
+    print("أنت بالغ.")
 else:
-    print("You are not an adult.")
+    print("أنت لست بالغاً.")
 
-# If-Else Ladder
+# سلسلة عبارات الشرط
 score = 85
 
 if score >= 90:

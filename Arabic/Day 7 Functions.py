@@ -1,14 +1,14 @@
-# Defining a Function
+# تعريف دالة
 def greet(name):
     return "Hello, " + name + "!"
 
 
-# Calling a Function
+# استدعاء الدالة
 message = greet("Alice")
 print(message)
 
 
-# Function with Multiple Arguments
+# دالة مع عدة مدخلات
 def add(a, b):
     return a + b
 

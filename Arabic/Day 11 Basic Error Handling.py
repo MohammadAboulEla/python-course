@@ -1,11 +1,11 @@
-# Try-Except for Error Handling
+# التعامل مع الأخطاء باستخدام try-except
 try:
     result = 10 / 0
 except ZeroDivisionError:
-    print("You can't divide by zero!")
+    print("لا يمكنك القسمة على الصفر!")
 
-# Handling Multiple Exceptions
+# التعامل مع عدة استثناءات
 try:
     num = int("abc")
 except ValueError:
-    print("Invalid input! Please enter a number.")
+    print("مدخل غير صالح! يرجى إدخال رقم.")
