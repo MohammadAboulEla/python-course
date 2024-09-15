@@ -1,4 +1,4 @@
-# دورة أساسيات بايثون للمراهقين 15-18 سنة
+# دورة أساسيات بايثون للشباب 15-18 سنة
 
 ![شعار بايثون](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
