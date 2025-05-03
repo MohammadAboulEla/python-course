@@ -1,4 +1,5 @@
 import turtle
+import dpi_awareness
 
 screen = turtle.Screen()
 t = turtle.Turtle()

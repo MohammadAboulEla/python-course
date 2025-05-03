@@ -1,4 +1,5 @@
 import turtle
+import dpi_awareness
 
 # إعداد النافذة
 screen = turtle.Screen()

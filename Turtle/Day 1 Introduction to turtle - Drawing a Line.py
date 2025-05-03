@@ -1,5 +1,6 @@
 # استيراد مكتبة السلحفاة
 import turtle
+import dpi_awareness
 
 # إنشاء نافذة الرسم
 screen = turtle.Screen()
